@@ -1,7 +1,3 @@
-"""add.py simple addition program"""
-
-x = int(input("Enter x: "))
-
-y = int(input("Enter y: "))
-
-print(f"{x} + {y} =  {x+y}.")
+x = input("Enter x: ")
+y = input("Enter y: ")
+print("X + y = " x + y)
